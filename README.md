@@ -26,5 +26,5 @@ I'm an aspiring Full Stack Data Scientist who recently graduated from University
 
 
 ## Summary 
-👩‍💻 I'm currently looking for a job as a data scientist in the UK.
+👩‍💻 I'm currently looking for a job as either a Data Analyst/Data Scientist in the UK.
 
