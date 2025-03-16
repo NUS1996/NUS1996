@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst | Business Analyst Portfolio
 
 Welcome to my GitHub portfolio! I'm a passionate **Data Analyst** with expertise in SQL, Excel, Power BI, and Python. This repository showcases my projects, skills, and insights into data analysis.
 
