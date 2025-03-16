@@ -1,30 +1,36 @@
+# 📊 Data Analyst Portfolio
 
-![Logo](https://github-readme-stats.vercel.app/api?username=NUS1996&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-# Hi, I'm Nusan! 👋
-
+Welcome to my GitHub portfolio! I'm a passionate **Data Analyst** with expertise in SQL, Excel, Power BI, and Python. This repository showcases my projects, skills, and insights into data analysis.
 
 ## 🚀 About Me
-I'm an aspiring Full Stack Data Scientist who recently graduated from University Of Essex in MSC Data Science.
+- 🎓 **Master's in Data Science**
+- 💼 Experience in **insurance administration** and process improvement
+- 🔍 Skilled in **SQL, Excel, Power BI, and Python**
+- 📈 Passionate about **data visualization, analytics, and business intelligence**
 
+## 📂 Featured Projects
+### 1️⃣ **Pizza Sales Analysis**
+**Tools Used:** Excel   
+📌 Analyzed pizza sales data to derive insights on revenue, customer preferences, and order trends.
 
+🔗 [Project Repository](https://github.com/NUS1996/Pizza_sales_analysis)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NUS1996)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusan-dubey-32a875229/)
+### 2️⃣ **[HR Attrition Analysis ]**
+**Tools Used:** Power BI  
+📌 Developed a Power BI dashboard to analyze employee attrition, job satisfaction, and workforce demographics. Key insights include attrition rates, job satisfaction by role, and department-wise trends.
 
+🔗 [Project Repository](https://github.com/NUS1996/HR-Analysis-)
 
+## 🛠️ Technical Skills
+- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Visualization:** Power BI, Excel (Pivot Tables, Charts)
+- **Data Processing:** Excel, SQL Queries, ETL Pipelines
+- **Business Intelligence:** Analyzing business trends, financial metrics
+- **Tools & Platforms:** Jupyter Notebook, Power BI, GitHub
 
-## 🛠 Skills
-1. Python 
-2. SQL 
-3. Machine Learning 
-4. Deep Learning
-5. Statistics 
-6. Artificial Intelligence 
+## 📫 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/nusandubey)
+- 📧 Email: dubeynusan07@gmail.com
 
-
-## Summary 
-👩‍💻 I'm currently looking for a job as either a Data Analyst/Data Scientist in the UK.
+🚀 **Let's transform raw data into meaningful insights!**
 
