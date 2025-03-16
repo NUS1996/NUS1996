@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio! I'm a passionate **Data Analyst** with expertise
 - **Tools & Platforms:** Jupyter Notebook, Power BI, GitHub
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/nusandubey)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nusan-dubey-32a875229/)
 - 📧 Email: dubeynusan07@gmail.com
 
 🚀 **Let's transform raw data into meaningful insights!**
