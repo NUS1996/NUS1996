@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! I'm a passionate **Data Analyst** with expertise
 
 ## 📂 Featured Projects
 ### 1️⃣ **Pizza Sales Analysis**
-**Tools Used:** Excel   
+**Tools Used:** SQL   
 📌 Analyzed pizza sales data to derive insights on revenue, customer preferences, and order trends.
 
 🔗 [Project Repository](https://github.com/NUS1996/Pizza_sales_analysis)
